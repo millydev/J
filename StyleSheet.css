@@ -1,0 +1,36 @@
+﻿
+#calc-contain{
+    position:relative;
+    width:245px;
+    height:220px;
+    border:2.5px solid pink;
+    border-radius:2px;
+   
+}
+input[type=button]{
+    background-color:rgba(128, 128, 128, 0.26);
+    width:58px;
+    font-weight:800;
+    margin:color: darkgray;
+    margin: 0px;
+    padding: 1px;
+   
+}
+input[type=text] {
+    width:243px;
+    height:40px;
+    position:relative;
+    right: 2px;
+    display:block;
+    font-size:20px;
+ 
+}
+
+input[type=submit]{
+    width:500px;
+}
+.emptyRow
+{
+    height:10px;  
+    width:100%;
+}
