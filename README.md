@@ -1,2 +1,2 @@
-# J
+# JsCalculator
 JavaScript using mathjs library
